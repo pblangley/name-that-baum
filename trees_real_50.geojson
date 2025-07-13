@@ -1,0 +1,1005 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Ahorn",
+        "pflanzjahr": "1991",
+        "hoehe_m": "11.9",
+        "zustand": "Good",
+        "stammdurchmesser": "37",
+        "standort": "Teichrand",
+        "objectid": "2000",
+        "named_by": "Alex \ud83c\udf33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.439528,
+          52.525634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Birke",
+        "pflanzjahr": "2009",
+        "hoehe_m": "13.3",
+        "zustand": "Good",
+        "stammdurchmesser": "40",
+        "standort": "Nordwiese",
+        "objectid": "2001",
+        "named_by": "Alex \ud83c\udf33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.435905,
+          52.531565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Eiche",
+        "pflanzjahr": "2019",
+        "hoehe_m": "15.9",
+        "zustand": "Fair",
+        "stammdurchmesser": "39",
+        "standort": "Oberweg",
+        "objectid": "2002",
+        "named_by": "Alex \ud83c\udf33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.438962,
+          52.529876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Eiche",
+        "pflanzjahr": "1998",
+        "hoehe_m": "6.5",
+        "zustand": "Good",
+        "stammdurchmesser": "37",
+        "standort": "Platz der B\u00e4ume",
+        "objectid": "2003",
+        "named_by": "Alex \ud83c\udf33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.438401,
+          52.534212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Ahorn",
+        "pflanzjahr": "2001",
+        "hoehe_m": "13.5",
+        "zustand": "Damaged",
+        "stammdurchmesser": "18",
+        "standort": "Platz der B\u00e4ume",
+        "objectid": "2004",
+        "named_by": "Alex \ud83c\udf33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44374,
+          52.530339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Ahorn",
+        "pflanzjahr": "1994",
+        "hoehe_m": "11.9",
+        "zustand": "Healthy",
+        "stammdurchmesser": "16",
+        "standort": "Teichrand",
+        "objectid": "2005",
+        "named_by": "Alex \ud83c\udf33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.435938,
+          52.532187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Kiefer",
+        "pflanzjahr": "1999",
+        "hoehe_m": "17.8",
+        "zustand": "Fair",
+        "stammdurchmesser": "26",
+        "standort": "Waldhang",
+        "objectid": "2006",
+        "named_by": "Alex \ud83c\udf33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.441487,
+          52.528822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Ahorn",
+        "pflanzjahr": "2014",
+        "hoehe_m": "9.4",
+        "zustand": "Damaged",
+        "stammdurchmesser": "12",
+        "standort": "Platz der B\u00e4ume",
+        "objectid": "2007",
+        "named_by": "Alex \ud83c\udf33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.443443,
+          52.532854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Kiefer",
+        "pflanzjahr": "1996",
+        "hoehe_m": "19.0",
+        "zustand": "Damaged",
+        "stammdurchmesser": "47",
+        "standort": "Waldhang",
+        "objectid": "2008",
+        "named_by": "Alex \ud83c\udf33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.440944,
+          52.53173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Linden",
+        "pflanzjahr": "1992",
+        "hoehe_m": "9.1",
+        "zustand": "Fair",
+        "stammdurchmesser": "44",
+        "standort": "Teichrand",
+        "objectid": "2009",
+        "named_by": "Alex \ud83c\udf33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.435865,
+          52.533494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Ahorn",
+        "pflanzjahr": "2011",
+        "hoehe_m": "8.5",
+        "zustand": "Damaged",
+        "stammdurchmesser": "40",
+        "standort": "S\u00fcdufer",
+        "objectid": "2010",
+        "named_by": "Alex \ud83c\udf33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.441759,
+          52.526317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Kiefer",
+        "pflanzjahr": "1992",
+        "hoehe_m": "5.7",
+        "zustand": "Damaged",
+        "stammdurchmesser": "28",
+        "standort": "Waldhang",
+        "objectid": "2011",
+        "named_by": "Alex \ud83c\udf33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.437408,
+          52.531562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Eiche",
+        "pflanzjahr": "2015",
+        "hoehe_m": "18.9",
+        "zustand": "Fair",
+        "stammdurchmesser": "21",
+        "standort": "Oberweg",
+        "objectid": "2012",
+        "named_by": "Alex \ud83c\udf33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.440122,
+          52.528014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Ahorn",
+        "pflanzjahr": "1990",
+        "hoehe_m": "5.0",
+        "zustand": "Healthy",
+        "stammdurchmesser": "33",
+        "standort": "Oberweg",
+        "objectid": "2013",
+        "named_by": "Alex \ud83c\udf33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.440287,
+          52.528328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Kiefer",
+        "pflanzjahr": "2008",
+        "hoehe_m": "5.8",
+        "zustand": "Fair",
+        "stammdurchmesser": "50",
+        "standort": "Oberweg",
+        "objectid": "2014",
+        "named_by": "Alex \ud83c\udf33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.441012,
+          52.534995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Ahorn",
+        "pflanzjahr": "1991",
+        "hoehe_m": "10.4",
+        "zustand": "Healthy",
+        "stammdurchmesser": "16",
+        "standort": "Waldhang",
+        "objectid": "2015",
+        "named_by": "Alex \ud83c\udf33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.438735,
+          52.533116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Eiche",
+        "pflanzjahr": "1994",
+        "hoehe_m": "11.3",
+        "zustand": "Healthy",
+        "stammdurchmesser": "36",
+        "standort": "Oberweg",
+        "objectid": "2016",
+        "named_by": "Alex \ud83c\udf33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.441784,
+          52.525863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Birke",
+        "pflanzjahr": "1997",
+        "hoehe_m": "16.7",
+        "zustand": "Fair",
+        "stammdurchmesser": "27",
+        "standort": "Nordwiese",
+        "objectid": "2017",
+        "named_by": "Alex \ud83c\udf33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.437138,
+          52.533804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Buche",
+        "pflanzjahr": "2004",
+        "hoehe_m": "6.8",
+        "zustand": "Healthy",
+        "stammdurchmesser": "13",
+        "standort": "Oberweg",
+        "objectid": "2018",
+        "named_by": "Alex \ud83c\udf33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.437249,
+          52.530531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Buche",
+        "pflanzjahr": "2010",
+        "hoehe_m": "7.6",
+        "zustand": "Fair",
+        "stammdurchmesser": "36",
+        "standort": "Teichrand",
+        "objectid": "2019",
+        "named_by": "Alex \ud83c\udf33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.443689,
+          52.531806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Buche",
+        "pflanzjahr": "2010",
+        "hoehe_m": "5.6",
+        "zustand": "Healthy",
+        "stammdurchmesser": "21",
+        "standort": "Teichrand",
+        "objectid": "2020",
+        "named_by": "Alex \ud83c\udf33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.439757,
+          52.531415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Linden",
+        "pflanzjahr": "1993",
+        "hoehe_m": "8.6",
+        "zustand": "Damaged",
+        "stammdurchmesser": "14",
+        "standort": "Nordwiese",
+        "objectid": "2021",
+        "named_by": "Alex \ud83c\udf33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.438004,
+          52.530511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Birke",
+        "pflanzjahr": "2001",
+        "hoehe_m": "18.5",
+        "zustand": "Healthy",
+        "stammdurchmesser": "10",
+        "standort": "Nordwiese",
+        "objectid": "2022",
+        "named_by": "Alex \ud83c\udf33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.438511,
+          52.526865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Buche",
+        "pflanzjahr": "1999",
+        "hoehe_m": "8.4",
+        "zustand": "Healthy",
+        "stammdurchmesser": "13",
+        "standort": "Waldhang",
+        "objectid": "2023",
+        "named_by": "Alex \ud83c\udf33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.435526,
+          52.52917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Buche",
+        "pflanzjahr": "1997",
+        "hoehe_m": "11.1",
+        "zustand": "Healthy",
+        "stammdurchmesser": "47",
+        "standort": "Waldhang",
+        "objectid": "2024",
+        "named_by": "Alex \ud83c\udf33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.435452,
+          52.533316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Eiche",
+        "pflanzjahr": "1998",
+        "hoehe_m": "16.5",
+        "zustand": "Damaged",
+        "stammdurchmesser": "19",
+        "standort": "Teichrand",
+        "objectid": "2025",
+        "named_by": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.439624,
+          52.529709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Kiefer",
+        "pflanzjahr": "1992",
+        "hoehe_m": "17.0",
+        "zustand": "Damaged",
+        "stammdurchmesser": "39",
+        "standort": "Platz der B\u00e4ume",
+        "objectid": "2026",
+        "named_by": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.444662,
+          52.531264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Ahorn",
+        "pflanzjahr": "2011",
+        "hoehe_m": "6.6",
+        "zustand": "Good",
+        "stammdurchmesser": "35",
+        "standort": "Platz der B\u00e4ume",
+        "objectid": "2027",
+        "named_by": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.435438,
+          52.525456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Ahorn",
+        "pflanzjahr": "2016",
+        "hoehe_m": "7.2",
+        "zustand": "Damaged",
+        "stammdurchmesser": "31",
+        "standort": "Oberweg",
+        "objectid": "2028",
+        "named_by": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.439729,
+          52.527244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Birke",
+        "pflanzjahr": "2011",
+        "hoehe_m": "15.1",
+        "zustand": "Damaged",
+        "stammdurchmesser": "46",
+        "standort": "Waldhang",
+        "objectid": "2029",
+        "named_by": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.440357,
+          52.53128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Birke",
+        "pflanzjahr": "1999",
+        "hoehe_m": "14.0",
+        "zustand": "Good",
+        "stammdurchmesser": "38",
+        "standort": "Waldhang",
+        "objectid": "2030",
+        "named_by": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44208,
+          52.525016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Birke",
+        "pflanzjahr": "1998",
+        "hoehe_m": "13.8",
+        "zustand": "Fair",
+        "stammdurchmesser": "19",
+        "standort": "Oberweg",
+        "objectid": "2031",
+        "named_by": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44004,
+          52.531707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Buche",
+        "pflanzjahr": "2003",
+        "hoehe_m": "12.2",
+        "zustand": "Fair",
+        "stammdurchmesser": "20",
+        "standort": "S\u00fcdufer",
+        "objectid": "2032",
+        "named_by": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.440638,
+          52.531863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Buche",
+        "pflanzjahr": "2008",
+        "hoehe_m": "16.8",
+        "zustand": "Healthy",
+        "stammdurchmesser": "36",
+        "standort": "Waldhang",
+        "objectid": "2033",
+        "named_by": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.442092,
+          52.531231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Linden",
+        "pflanzjahr": "2005",
+        "hoehe_m": "17.3",
+        "zustand": "Fair",
+        "stammdurchmesser": "16",
+        "standort": "S\u00fcdufer",
+        "objectid": "2034",
+        "named_by": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.444593,
+          52.530383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Eiche",
+        "pflanzjahr": "2016",
+        "hoehe_m": "5.6",
+        "zustand": "Fair",
+        "stammdurchmesser": "24",
+        "standort": "Waldhang",
+        "objectid": "2035",
+        "named_by": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.440013,
+          52.526747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Eiche",
+        "pflanzjahr": "2005",
+        "hoehe_m": "10.3",
+        "zustand": "Good",
+        "stammdurchmesser": "34",
+        "standort": "S\u00fcdufer",
+        "objectid": "2036",
+        "named_by": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.442989,
+          52.529159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Buche",
+        "pflanzjahr": "1999",
+        "hoehe_m": "13.1",
+        "zustand": "Good",
+        "stammdurchmesser": "16",
+        "standort": "Teichrand",
+        "objectid": "2037",
+        "named_by": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.436958,
+          52.530749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Buche",
+        "pflanzjahr": "1992",
+        "hoehe_m": "5.5",
+        "zustand": "Damaged",
+        "stammdurchmesser": "35",
+        "standort": "Platz der B\u00e4ume",
+        "objectid": "2038",
+        "named_by": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43998,
+          52.526272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Kiefer",
+        "pflanzjahr": "1990",
+        "hoehe_m": "13.8",
+        "zustand": "Fair",
+        "stammdurchmesser": "25",
+        "standort": "Teichrand",
+        "objectid": "2039",
+        "named_by": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.439158,
+          52.526055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Birke",
+        "pflanzjahr": "2017",
+        "hoehe_m": "9.0",
+        "zustand": "Healthy",
+        "stammdurchmesser": "37",
+        "standort": "Waldhang",
+        "objectid": "2040",
+        "named_by": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.438908,
+          52.533733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Birke",
+        "pflanzjahr": "1994",
+        "hoehe_m": "15.3",
+        "zustand": "Healthy",
+        "stammdurchmesser": "43",
+        "standort": "S\u00fcdufer",
+        "objectid": "2041",
+        "named_by": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.440176,
+          52.525848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Birke",
+        "pflanzjahr": "1999",
+        "hoehe_m": "10.0",
+        "zustand": "Fair",
+        "stammdurchmesser": "31",
+        "standort": "Nordwiese",
+        "objectid": "2042",
+        "named_by": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44301,
+          52.530401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Eiche",
+        "pflanzjahr": "1999",
+        "hoehe_m": "7.6",
+        "zustand": "Damaged",
+        "stammdurchmesser": "36",
+        "standort": "Platz der B\u00e4ume",
+        "objectid": "2043",
+        "named_by": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.440041,
+          52.53317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Kiefer",
+        "pflanzjahr": "2007",
+        "hoehe_m": "5.5",
+        "zustand": "Fair",
+        "stammdurchmesser": "15",
+        "standort": "Waldhang",
+        "objectid": "2044",
+        "named_by": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.437783,
+          52.529123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Linden",
+        "pflanzjahr": "2005",
+        "hoehe_m": "15.4",
+        "zustand": "Good",
+        "stammdurchmesser": "22",
+        "standort": "S\u00fcdufer",
+        "objectid": "2045",
+        "named_by": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.442965,
+          52.53404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Birke",
+        "pflanzjahr": "1991",
+        "hoehe_m": "14.7",
+        "zustand": "Damaged",
+        "stammdurchmesser": "18",
+        "standort": "Nordwiese",
+        "objectid": "2046",
+        "named_by": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.438083,
+          52.532534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Eiche",
+        "pflanzjahr": "2016",
+        "hoehe_m": "9.6",
+        "zustand": "Fair",
+        "stammdurchmesser": "39",
+        "standort": "Nordwiese",
+        "objectid": "2047",
+        "named_by": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.437717,
+          52.528618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Birke",
+        "pflanzjahr": "1998",
+        "hoehe_m": "7.9",
+        "zustand": "Good",
+        "stammdurchmesser": "15",
+        "standort": "Platz der B\u00e4ume",
+        "objectid": "2048",
+        "named_by": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.436509,
+          52.534224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "art_dtsch": "Ahorn",
+        "pflanzjahr": "1993",
+        "hoehe_m": "16.7",
+        "zustand": "Good",
+        "stammdurchmesser": "14",
+        "standort": "Oberweg",
+        "objectid": "2049",
+        "named_by": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.438317,
+          52.53443
+        ]
+      }
+    }
+  ]
+}

@@ -70,7 +70,7 @@
 
   const map = new mapboxgl.Map({
     container: 'map',
-    style: 'mapbox://styles/treeyonce/cmd1g8iwr043q01sd8yc05yw1',
+    style: 'mapbox://styles/treeyonce/cmczjpz7z004u01sj97ab7dce',
     center: [13.44, 52.53],
     zoom: 15
   });
